@@ -1,7 +1,5 @@
 Building and creating new things always excites me.
 
-Python is real deal.
-
 
 practice codes
 
